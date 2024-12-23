@@ -17,7 +17,7 @@ To use `dur`, you need the Rust toolchain. Follow these steps to install:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/dur.git
+   git clone https://github.com/nwiizo/dur.git
    cd dur
    ```
 
